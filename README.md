@@ -14,6 +14,23 @@ Scalable: Efficient handling of multiple API calls with rate-limiting controls f
 Use Case
 The primary use case of this project is for organizations or individuals looking to fine-tune and train large language models (LLMs) with high-quality, reasoning-intensive datasets, with minimal manual intervention. This is especially valuable when aiming to replicate the capabilities of advanced models like OpenAI's Strawberry.
 
+I went ahead and created examples in 15 domains.
+Medicine and Healthcare
+Science and Research
+Software Development
+Mathematics
+Business and Economics
+Engineering and Technology
+Legal and Ethics
+Natural Language Processing
+Education
+Psychology and Behavioral Science
+Political Science and Public Policy
+Creative and Media Industries
+Environmental Science and Sustainability
+Logistics and Operations
+Cybersecurity
+
 ## Installation
 Prerequisites
 Python 3.x
